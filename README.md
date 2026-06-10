@@ -1,6 +1,6 @@
 # Tesvora Technologies
 
-![Tesvora Logo](assets/logo.png)
+
 
 ## Engineering Tomorrow's Intelligent Systems
 
